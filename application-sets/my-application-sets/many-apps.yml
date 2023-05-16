@@ -14,7 +14,7 @@ spec:
     metadata:
       name: '{{path.basename}}'
     spec:
-      # The project the application belongs to.
+      # The project the application belongs too.
       project: default
 
       # Source of the application manifests
